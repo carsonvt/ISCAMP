@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: The Institute for the Study of Coalitions, Alliances, and Military Partnerships
 ---
 
 This is a blank Quartz installation.
