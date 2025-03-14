@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: Intelligence
 draft: false
 tags:
 ---

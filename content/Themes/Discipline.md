@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: Discipline
 draft: false
 tags:
 ---

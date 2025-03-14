@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: Politics
 draft: false
 tags:
 ---

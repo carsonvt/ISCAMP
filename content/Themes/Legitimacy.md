@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: Legitimacy
 draft: false
 tags:
 ---

@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: Equipment
 draft: false
 tags:
 ---

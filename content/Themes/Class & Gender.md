@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: Class & Gender
 draft: false
 tags:
 ---
