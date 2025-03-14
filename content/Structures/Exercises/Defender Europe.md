@@ -1,4 +1,3 @@
-# Defender Europe
 ## Overview
 
 *Defender Europe* is a large-scale, U.S. Army Europe and Africa-led multinational and joint exercise series designed to build strategic and operational readiness between U.S. forces, NATO allies, and partner nations. Initiated in 2020, the exercise focuses on the rapid deployment of combat-credible forces from the United States to Europe, enhancing the ability to respond to potential crises and reinforcing deterrence against aggression. By conducting operations across multiple European countries, Defender Europe demonstrates the U.S. commitment to NATO and the security of Europe.
