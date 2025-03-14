@@ -19,9 +19,7 @@ The war evolved through multiple phases, including major combat operations (2003
 
 ## Coalition Command and Control (C2)
 
-The command and control (C2) structure during Operation Iraqi Freedom was designed to ensure efficient coordination among coalition forces while maintaining national autonomy within a unified framework. 
-
-Since the majority of combat forces—the U.S., UK, Australia—were English-speaking, C2 and interoperability were relatively streamlined. 
+The command and control (C2) structure during Operation Iraqi Freedom was designed to ensure efficient coordination among coalition forces while maintaining national autonomy within a unified framework. Since the majority of combat forces—the U.S., UK, Australia—were English-speaking, C2 and interoperability were relatively streamlined. 
 
 All coalition forces came under the authority of U.S. Central Command (CENTCOM), led by General Tommy Franks, but retained national chains of command for administrative and strategic oversight. 
 
