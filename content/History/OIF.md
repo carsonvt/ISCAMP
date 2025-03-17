@@ -1,5 +1,5 @@
 ---
-title: "Operation Iraqi Freedom (OIF): The War in Iraq, 2003–2011"
+title: Operation Iraqi Freedom (OIF)
 draft: false
 tags:
   - Iraq

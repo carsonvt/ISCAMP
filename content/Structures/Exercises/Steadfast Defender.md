@@ -1,10 +1,10 @@
 ## Overview
 
-*Steadfast Defender* is a series of large-scale military exercises conducted by the North Atlantic Treaty Organization (NATO) to enhance the readiness and interoperability of its constituent Allied forces. These exercises demonstrate NATO's capability to rapidly deploy and sustain forces across Europe, reinforcing collective defense and deterrence strategies.
+*Steadfast Defender* is a series of large-scale military exercises conducted by the [[North Atlantic Treaty Organization (NATO)]] to enhance the readiness and interoperability of its constituent Allied forces. These exercises demonstrate NATO's capability to rapidly deploy and sustain forces across Europe, reinforcing collective defense and deterrence strategies.
 
 ## History
 
-The inaugural *Steadfast Defender* exercise took place in 2021, involving approximately 9,000 troops. Designed to test NATO's new command structure, it focused on the rapid reinforcement of Europe from North America. Building on this foundation, *Steadfast Defender 2024* expanded significantly, becoming NATO's largest military exercise since the Cold War. Held from January to May 2024, it mobilized over 90,000 troops from all 31 NATO member countries and partner nation Sweden. The exercise showcased NATO's ability to conduct complex, multi-domain operations over extended periods and vast distances, from the High North to Central and Eastern Europe. 
+The inaugural *Steadfast Defender* exercise took place in 2021, involving approximately 9,000 troops. Designed to test NATO's new command structure, it focused on the rapid reinforcement of Europe from North America. Building on this foundation, *Steadfast Defender 2024* expanded significantly, becoming NATO's largest military exercise since the Cold War. Held from January to May 2024, it mobilized over 90,000 troops from all 32 NATO member countries and partner nation Sweden. The exercise showcased NATO's ability to conduct complex, multi-domain operations over extended periods and vast distances, from the High North to Central and Eastern Europe. 
 
 ## Main Features and Focus
 
