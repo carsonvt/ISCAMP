@@ -1,0 +1,1 @@
+Pooling military assets such as bases, equipment, and supply chains to improve sustainability.

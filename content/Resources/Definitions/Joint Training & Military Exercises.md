@@ -1,0 +1,1 @@
+Conducting combined drills and war games to enhance coordination and readiness.

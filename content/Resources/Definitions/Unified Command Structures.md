@@ -1,0 +1,1 @@
+Establishing integrated leadership frameworks to streamline decision-making in multinational operations.

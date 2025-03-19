@@ -1,0 +1,1 @@
+Aligning military strategies, doctrines, and rules of engagement for seamless cooperation.
