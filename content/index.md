@@ -1,7 +1,7 @@
 ---
 title: Welcome to the Institute for the Study of Coalitions, Alliances, and Military Partnerships
 ---
-# *Exploring the Spectrum of Military Multilateralism*
+*Exploring the Spectrum of Military Multilateralism*
 
 In an era of increasing integration and strategic interdependence, the ability for nations to fight and operate together has never been more critical. 
 
