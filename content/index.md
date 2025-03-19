@@ -1,8 +1,7 @@
 ---
-title: Welcome to ISCAMP
+title: Welcome to the Institute for the Study of Coalitions, Alliances, and Military Partnerships
 ---
-### ![[content/_ISCAMPLogo.png]]
-Exploring the Spectrum of Military Multilateralism
+# *Exploring the Spectrum of Military Multilateralism*
 
 In an era of increasing integration and strategic interdependence, the ability for nations to fight and operate together has never been more critical. 
 
