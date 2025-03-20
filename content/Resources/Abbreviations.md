@@ -1,8 +1,7 @@
 ---
 title: Common Abbreviations
 draft: false
-tags:
-  - Resources
+tags: []
 ---
 |Key||
 |---|---|
