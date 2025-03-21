@@ -4,10 +4,10 @@ draft: false
 tags:
 ---
 ![President Joe Biden, British Prime Minister Rishi Surnak and Australian Prime Minister Anthony Albanese speak at the AUKUS bilateral meeting in San Diego, Calif, March 13, 2023. (DoD photo by Chad J. McNeeley)](_AUKUS1.jpg)
-
+*President Joe Biden, British Prime Minister Rishi Surnak and Australian Prime Minister Anthony Albanese speak at the AUKUS bilateral meeting in San Diego, Calif, March 13, 2023. (DoD photo by Chad J. McNeeley)*
 ## Overview
 
-AUKUS is a trilateral security partnership between Australia, the United Kingdom, and the United States. Announced in September 2021, the initiative aims to enhance military cooperation, deepen defense-industrial collaboration, and strengthen security in the Indo-Pacific region. The centerpiece of AUKUS is the commitment to assist Australia in acquiring nuclear-powered submarines, marking a major shift in regional power dynamics and long-term strategic deterrence. Beyond submarines, AUKUS also focuses on advanced military technologies, including cyber warfare, artificial intelligence (AI), quantum computing, and hypersonic weapons.
+AUKUS is a trilateral security partnership between [[Australia]], the [[United Kingdom]], and the [[United States]]. Announced in September 2021, the initiative aims to enhance military cooperation, deepen defense-industrial collaboration, and strengthen security in the Indo-Pacific region. The centerpiece of AUKUS is the commitment to assist Australia in acquiring nuclear-powered submarines, marking a major shift in regional power dynamics and long-term strategic deterrence. Beyond submarines, AUKUS also focuses on advanced military technologies, including cyber warfare, artificial intelligence (AI), quantum computing, and hypersonic weapons.
 
 ## History
 
@@ -30,8 +30,8 @@ AUKUS is a trilateral security partnership between Australia, the United Kingdom
    - Enhances UK’s role in Indo-Pacific security, aligning with its post-Brexit "Global Britain" strategy.
    - Intensifies China’s opposition, with Beijing condemning AUKUS as an effort to contain its influence.
 
-![Secretary of Defense Lloyd J. Austin III hosts British Secretary of State for Defense Ben Wallace, and Australian Deputy Prime Minister and Minister of Defense Richard Marles during a trilateral defense ministerial meeting at the Pentagon, Washington, D.C., Dec. 7, 2022. (DoD photo by U.S. Navy Petty Officer 2nd Class Alexander Kubitza)](_AUKUS2.jpg)
-
+![](_AUKUS2.jpg)
+*Secretary of Defense Lloyd J. Austin III hosts British Secretary of State for Defense Ben Wallace, and Australian Deputy Prime Minister and Minister of Defense Richard Marles during a trilateral defense ministerial meeting at the Pentagon, Washington, D.C., Dec. 7, 2022. (DoD photo by U.S. Navy Petty Officer 2nd Class Alexander Kubitza)*
 ## Resources
 
 - [AUKUS Joint Leaders’ Statement (2021)](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/13/joint-leaders-statement-on-aukus-2/#:~:text=When%20we%20announced%20the%20AUKUS,global%20nuclear%20non%2Dproliferation%20regime.)
