@@ -6,7 +6,7 @@
 
 ## Overview
 
-The ANZUS Treaty is a trilateral security agreement between [[Australia]], [[New Zealand]], and the [[United States]], signed in 1951 to promote military cooperation and collective defense in the Pacific. While originally a binding military alliance, political and nuclear policy disagreements led to the suspension of [[US-New Zealand]] military ties in the 1980s, effectively making ANZUS a bilateral alliance between Australia and the United States. However, New Zealand remains a partner and engages in security cooperation with both nations.
+The ANZUS Treaty is a trilateral security agreement between [[Australia]], [[New Zealand]], and the [[United States]], signed in 1951 to promote military cooperation and collective defense in the Pacific. While originally a binding military alliance, political and nuclear policy disagreements led to the suspension of [[US-New Zealand]] military ties in the 1980s, effectively making ANZUS a [[Bilateral Alliances|bilateral alliance]] between Australia and the United States. However, New Zealand remains a partner and engages in security cooperation with both nations.
 
 ## History
 
@@ -18,7 +18,7 @@ The ANZUS Treaty is a trilateral security agreement between [[Australia]], [[New
 ## Characteristics, Initiatives & Features
 
 - Collective Security Commitment (Australia-U.S.): The treaty binds Australia and the U.S. to consult and act together in response to an armed attack in the Pacific.
-- Suspension of U.S.-New Zealand Defense Relations: Though military ties were downgraded in 1986, New Zealand was later designated a major non-NATO ally (MNNA) in 1997.
+- Suspension of U.S.-New Zealand Defense Relations: Though military ties were downgraded in 1986, New Zealand was later designated a [[Major Non-NATO Ally (MNNA)|major non-NATO ally (MNNA)]] in 1997.
 - ANZUS and Regional Security: The treaty plays a critical role in Indo-Pacific security, supporting joint military exercises, intelligence-sharing, and interoperability between Australian and U.S. forces.
 - Interoperability and Joint Operations: ANZUS underpins bilateral defense cooperation, with Australian and U.S. forces operating closely in Iraq, Afghanistan, and the South China Sea.
 - New Zealand’s Limited Role: While no longer under a mutual defense obligation, New Zealand continues to participate in trilateral dialogues and regional security cooperation.
