@@ -1,14 +1,14 @@
 ---
-title: New Zealand Military Partnerships
+title: New Zealand
 draft: false
 tags:
 ---
 
-| Country Index                                                             |
-| ------------------------------------------------------------------------- |
-| [Australia](https://carsonvt.github.io/iscamp/Structures/Alliances/ANZUS) |
-| United Kingdom                                                            |
-| [[US-New Zealand]]                                                        |
+| Country Index                     |
+| --------------------------------- |
+| Australia                         |
+| United Kingdom                    |
+| [[US-New Zealand\|United States]] |
 
 | Structures                                                                |
 | ------------------------------------------------------------------------- |

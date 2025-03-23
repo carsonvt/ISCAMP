@@ -1,5 +1,5 @@
 ---
-title: United States Military Partnerships
+title: United States
 draft: false
 tags:
 ---

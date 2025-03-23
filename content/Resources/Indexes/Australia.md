@@ -1,15 +1,15 @@
 ---
-title: Australia Military Partnerships
+title: Australia
 draft: false
 tags:
 ---
 
-| Country Index                                                                 |
-| ----------------------------------------------------------------------------- |
-| [New Zealand](https://carsonvt.github.io/iscamp/Structures/Alliances/ANZUS)   |
-| United Kingdom                                                                |
-| [United States](https://carsonvt.github.io/iscamp/Structures/Alliances/ANZUS) |
+| Country Index  |
+| -------------- |
+| New Zealand    |
+| United Kingdom |
+| United States  |
 
-| Structures                                                            |
-| --------------------------------------------------------------------- |
-| [ANZUS](https://carsonvt.github.io/iscamp/Structures/Alliances/ANZUS) |
+| Structures                                                             |
+| ---------------------------------------------------------------------- |
+| [[ANZUS (Australia-New Zealand-United States Security Treaty)\|ANZUS]] |

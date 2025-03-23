@@ -7,7 +7,7 @@ tags:
 | Index                |
 | -------------------- |
 | Argentina            |
-| Australia            |
+| [[Australia]]        |
 | Azerbaijian          |
 | Bahrain              |
 | Brazil               |
@@ -36,7 +36,7 @@ tags:
 | Kenya                |
 | Kuwait               |
 | Morocco              |
-| New Zealand          |
+| [[New Zealand]]      |
 | Niger                |
 | North Korea          |
 | Norway               |
@@ -59,7 +59,7 @@ tags:
 | Ukraine              |
 | United Arab Emirates |
 | United Kingdom       |
-| United States        |
+| [[United States]]    |
 | Vietnam              |
 | Yemen                |
 |                      |
