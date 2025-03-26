@@ -11,20 +11,22 @@ The Australia–Indonesia military relationship has historically been complex an
 
 ## History
 
-- Cold War & Tensions (1945–1990s): Relations were uneasy during the Cold War, particularly due to Australia’s alignment with the West and Indonesia’s internal military conflicts.
-- East Timor Crisis & Military Freeze (1999–2002): Australia’s military intervention in East Timor strained relations, leading to a temporary suspension of defense ties.
+- Cold War & Tensions (1945–1990s): Relations were uneasy during the [[Cold War]], particularly due to Australia’s alignment with the West and Indonesia’s internal military conflicts.
+- East Timor Crisis & Military Freeze (1999–2002): [[Australia’s]] military intervention in East Timor strained relations, leading to a temporary suspension of defense ties.
 - Post-2000s Reconciliation & Growing Cooperation: Both nations repaired military relations, culminating in counterterrorism coordination and maritime security agreements.
 
 ## Key Characteristics
 
-- [[Defence Cooperation Agreement (DCA)]] (2012, Updated 2021): Strengthens joint military training, intelligence-sharing, and naval security cooperation. Enhances interoperability between the Australian Defence Force (ADF) and the Indonesian National Armed Forces (TNI).
-- Counterterrorism & Maritime Security: Joint Special Forces Training: Focuses on counterterrorism operations, hostage rescue, and urban warfare. Maritime Patrol Coordination: The Royal Australian Navy (RAN) and Indonesian Navy (TNI-AL) conduct joint patrols to combat piracy, smuggling, and illegal fishing.
-- Military Exercises & Regional Security Cooperation: Exercise Garuda Shield: Australia participates in Indonesia’s largest multinational military drill, improving regional defense cooperation. Indo-Pacific Stability Efforts: Both nations collaborate under ASEAN-led defense forums to counter China’s expanding influence in the South China Sea.
+- [[DCA|Defence Cooperation Agreement (DCA)]] (2012, Updated 2021): Strengthens joint military training, intelligence-sharing, and naval security cooperation. Enhances interoperability between the Australian Defence Force (ADF) and the Indonesian National Armed Forces (TNI).
+- Counterterrorism & Maritime Security
+- Joint Special Forces Training: Focuses on counterterrorism operations, hostage rescue, and urban warfare. 
+- Maritime Patrol Coordination: The Royal Australian Navy (RAN) and Indonesian Navy (TNI-AL) conduct joint patrols to combat piracy, smuggling, and illegal fishing.
+- Military Exercises & Regional Security Cooperation: [[Exercise Garuda Shield]]: Australia participates in Indonesia’s largest multinational military drill, improving regional defense cooperation. Indo-Pacific Stability Efforts: Both nations collaborate under [[ASEAN]]-led defense forums to counter China’s expanding influence in the South China Sea.
 ## Strategic Importance
 
-- Ensuring Stability in Southeast Asia: The partnership reinforces regional security against transnational threats like terrorism, piracy, and cyber warfare.
-- Strengthening ASEAN-Australia Defense Ties: Australia’s growing military relationship with Indonesia enhances its engagement with ASEAN security initiatives.
-- Maritime Security & South China Sea Deterrence: Joint naval patrols and intelligence-sharing support freedom of navigation and regional deterrence against coercive actions.
+- Ensuring Stability in [[Southeast Asia]]: The partnership reinforces regional security against transnational threats like terrorism, piracy, and cyber warfare.
+- Strengthening [[ASEAN]]-Australia Defense Ties: Australia’s growing military relationship with Indonesia enhances its engagement with ASEAN security initiatives.
+- Maritime Security & [[South China Sea]] Deterrence: Joint naval patrols and intelligence-sharing support freedom of navigation and regional deterrence against coercive actions.
 
 ## Resources
 

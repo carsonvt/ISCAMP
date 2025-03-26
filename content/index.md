@@ -34,13 +34,6 @@ Coalition warfare is more than just a collection of allied forces—it is a dyna
 
 By translating these intricate themes into intelligible insights, the Center bridges the gap between academic scholarship, military practitioners, and policymakers—ensuring that the lessons of coalition warfare are both understood and applied in today’s rapidly evolving security environment.
 
-|Core Concepts|
-|---|---|---|
-|Command|Politics|Class & Gender|
-|Control|Equipment|Discipline|
-|Integration|Goals|Traditions & Customs|
-|Leadership|Strategy|Training|
-|Interoperability|Intelligence|Security Assistance|
-|Culture|Liaison|Joint Operations|
-|Legitimacy|Language|Combined Operations|
+<center>
 ![](https://cdn.blot.im/blog_ddffc09dd5024f58ac229cd6549c2d4c/_image_cache/94f1ea33-ebba-4642-b9f2-96a06e245275.png)
+</center>

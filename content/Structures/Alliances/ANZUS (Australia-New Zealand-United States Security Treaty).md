@@ -1,6 +1,6 @@
 ## Overview
 
-The ANZUS Treaty is a trilateral security agreement between [[Australia]], [[New Zealand]], and the [[United States]], signed in 1951 to promote military cooperation and collective defense in the Pacific. While originally a binding military alliance, political and nuclear policy disagreements led to the suspension of [[US-New Zealand]] military ties in the 1980s, effectively making ANZUS a [[Bilateral Alliances|bilateral alliance]] between Australia and the United States. However, New Zealand remains a partner and engages in security cooperation with both nations.
+The ANZUS Treaty is a trilateral security agreement between [[Australia]], [[New Zealand]], and the [[United States]], signed in 1951 to promote military cooperation and collective defense in the Pacific. While originally a binding military alliance, political and nuclear policy disagreements led to the suspension of [[US-NZ]] military ties in the 1980s, effectively making ANZUS a [[Bilateral Alliances|bilateral alliance]] between Australia and the United States. However, New Zealand remains a partner and engages in security cooperation with both nations.
 
 ## History
 

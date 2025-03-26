@@ -8,7 +8,7 @@ tags:
 | --------------------------------- |
 | Australia                         |
 | United Kingdom                    |
-| [[US-New Zealand\|United States]] |
+| [[US-NZ\|United States]] |
 
 | Structures                                                                |
 | ------------------------------------------------------------------------- |

@@ -2,14 +2,13 @@
 ### Import List
 - [x] ANZUS ✅ 2025-03-20
 	- [ ] Update links & images
-- Arab Israel
-- ASEAN 
-	- Edit 
-- ASF
-- AUKUS
-- AUS INDO
-- Axis2
-- BRA ARG
+- ~~Arab Israel~~
+- ~~ASEAN~~
+- ~~ASF~~
+- ~~AUKUS~~
+- ~~AUS INDO~~
+- ~~Axis2~~
+- ~~BRA ARG~~
 - BRI
 - BRICS
 - CDS
@@ -131,11 +130,13 @@
 
 ### ISCAMP History
 - Post-WWII Security Framework (1951)
-
 ### ISCAMP Regional
 - South China Sea
 - Indo-Pacific
-
+- Sahel
+- Central Africa
+- South America
+- Latin America
 ### ISCAMP Other (Todo)
 - mutual security
 - bilateral alliances - DONE
@@ -168,11 +169,12 @@
 	- CARAT (US-Indonesia) -> CARAT
 	- Pitch Black (Australia-Led) -> Pitch Black
 	- Cobra Gold (US-Thailand Multilateral Exercise) -> Cobra Gold
+	- Exercise Garuda Shield
 ASEAN Defence Ministers' Meeting-Plus
 South China Sea Disputes
 China - US Rivalry (SE Asia page link) 
 Terrorism and Insurgency (themes; terrorism as coalition warfare)--linked from SE Asia
-Piracy and MAritime Crime
+Piracy and Maritime Crime
 Climate and Human Security (linked from SE Asia)
 FPDA
 ~~Defence Cooperation Agreement (DCA) - *AUS IND*~~
@@ -183,7 +185,16 @@ India-Philippines DCA (2022)
 - In QUAD - 2004 Indian Ocean Tsunami Response - Joint Humanitarian Efforts 
 Coalition (in definitions)
 Malabar Exercise
-
+Maritime Security 
+EU Rapid Deployment Capacity 
+NATO Rapid Response Force
+Peacekeeping Operations
+European Union (EU)
+United Nations
+SCO -- Shanghai Cooperation Organization (SCO)
+BRICS+
+Mercosur
+The Abraham Accords (2020)
 
 *Do*
 - ISCAMP Logo

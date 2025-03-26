@@ -30,7 +30,7 @@ tags:
 | US-Kuwait                  |
 | US-Morocco                 |
 | US-Niger                   |
-| [[US-New Zealand]]         |
+| [[US-NZ]]         |
 | US-Oman                    |
 | US-Pakistan                |
 | US-Philippines             |
