@@ -1,8 +1,9 @@
 ---
-title: Multinational Security Concerns in Southeast Asia
+title: Southeast Asia
 draft: false
 tags:
 ---
+# Multinational Security Concerns in Southeast Asia
 ## Overview
 
 Southeast Asia sits at the strategic crossroads of the [[Indo-Pacific]], a region where the ambitions of major powers intersect with the sovereign interests of small and medium-sized states. As a result, the security landscape of Southeast Asia is defined by overlapping geopolitical contests, unresolved maritime disputes, internal insurgencies, and transnational threats like terrorism, piracy, and climate change. While the [[ASEAN|Association of Southeast Asian Nations (ASEAN)]] provides a framework for regional dialogue, security arrangements remain largely fragmented and ad hoc, with multilateral efforts shaped more by pragmatic cooperation than formal alliances.

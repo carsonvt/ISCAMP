@@ -1,5 +1,0 @@
-A Major Non-NATO Ally (MNNA) is a designation granted by the United States to strategic partners that are not members of NATO but maintain close military and security ties with the U.S. This status, established by law in 1987, provides eligible countries with various military, financial, and technological benefits, including access to U.S. defense research, priority in acquiring surplus military equipment, and participation in joint military training and operations. While MNNA status does not include a mutual defense commitment like NATO membership, it strengthens bilateral defense cooperation and enhances interoperability.
-
-### **Examples of MNNA Countries**
-
-Some of the current MNNAs include [[Australia]], Japan, South Korea, Israel, Egypt, Jordan, Argentina, Brazil, Thailand, Pakistan, the Philippines, and Ukraine.
