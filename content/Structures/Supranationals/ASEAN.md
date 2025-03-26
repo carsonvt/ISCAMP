@@ -1,7 +1,3 @@
-Title: ASEAN
-Menu: No
-Link: ASEAN
-
 # **Association of Southeast Asian Nations (ASEAN)**
 
 Unlike NATO, ASEAN lacks a collective defense clause, but its members—ranging from U.S.-allied Singapore to China-friendly Cambodia—have increasingly sought greater military cooperation amid regional tensions. 

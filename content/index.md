@@ -1,7 +1,7 @@
 ---
 title: Welcome to the Institute for the Study of Coalitions, Alliances, and Military Partnerships
 ---
-# Who We Are
+### Who We Are
 
 In an era of increasing integration and strategic interdependence, the ability for nations to fight and operate together has never been more critical. 
 
@@ -11,6 +11,6 @@ Our research documents the ways in which modern armed forces enhance interoperab
 
 As militaries navigate an increasingly complex security environment—where joint operations range from counterinsurgency to deterrence, from humanitarian assistance to stability operations—this database serves as a hub for understanding how nations coordinate, collaborate, and ultimately succeed together. At a time when unilateralism competes with the enduring logic of military partnership, we remain committed to studying the past, present, and future of military cooperation in all its forms.
 
-# What We Study
+### What We Study
 
 
