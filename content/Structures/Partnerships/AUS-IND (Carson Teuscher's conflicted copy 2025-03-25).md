@@ -17,7 +17,7 @@ The Australia–Indonesia military relationship has historically been complex an
 
 ## Key Characteristics
 
-- [[Defence Cooperation Agreement (DCA)]] (2012, Updated 2021): Strengthens joint military training, intelligence-sharing, and naval security cooperation. Enhances interoperability between the Australian Defence Force (ADF) and the Indonesian National Armed Forces (TNI).
+- Defence Cooperation Agreement (DCA) (2012, Updated 2021): Strengthens joint military training, intelligence-sharing, and naval security cooperation. Enhances interoperability between the Australian Defence Force (ADF) and the Indonesian National Armed Forces (TNI).
 - Counterterrorism & Maritime Security: Joint Special Forces Training: Focuses on counterterrorism operations, hostage rescue, and urban warfare. Maritime Patrol Coordination: The Royal Australian Navy (RAN) and Indonesian Navy (TNI-AL) conduct joint patrols to combat piracy, smuggling, and illegal fishing.
 - Military Exercises & Regional Security Cooperation: Exercise Garuda Shield: Australia participates in Indonesia’s largest multinational military drill, improving regional defense cooperation. Indo-Pacific Stability Efforts: Both nations collaborate under ASEAN-led defense forums to counter China’s expanding influence in the South China Sea.
 ## Strategic Importance

@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
 ![President Joe Biden, British Prime Minister Rishi Surnak and Australian Prime Minister Anthony Albanese speak at the AUKUS bilateral meeting in San Diego, Calif, March 13, 2023. (DoD photo by Chad J. McNeeley)](_AUKUS1.jpg)
-*President Joe Biden, British Prime Minister Rishi Sunak and Australian Prime Minister Anthony Albanese speak at the AUKUS bilateral meeting in San Diego, Calif, March 13, 2023. (DoD photo by Chad J. McNeeley)*
+*President Joe Biden, British Prime Minister Rishi Surnak and Australian Prime Minister Anthony Albanese speak at the AUKUS bilateral meeting in San Diego, Calif, March 13, 2023. (DoD photo by Chad J. McNeeley)*
 ## Overview
 
 AUKUS is a trilateral security partnership between [[Australia]], the [[United Kingdom]], and the [[United States]]. Announced in September 2021, the initiative aims to enhance military cooperation, deepen defense-industrial collaboration, and strengthen security in the Indo-Pacific region. The centerpiece of AUKUS is the commitment to assist Australia in acquiring nuclear-powered submarines, marking a major shift in regional power dynamics and long-term strategic deterrence. Beyond submarines, AUKUS also focuses on advanced military technologies, including cyber warfare, artificial intelligence (AI), quantum computing, and hypersonic weapons.

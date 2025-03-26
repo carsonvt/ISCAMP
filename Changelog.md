@@ -53,7 +53,7 @@
 - OSCE
 - PSF
 - PSI
-- QUAD
+- ~~QUAD~~
 - RIO Treaty
 - RUS CHI
 - RUS IRA
@@ -134,6 +134,7 @@
 
 ### ISCAMP Regional
 - South China Sea
+- Indo-Pacific
 
 ### ISCAMP Other (Todo)
 - mutual security
@@ -149,7 +150,8 @@
 - Historical Ties in Coalition Warfare - 
 - Soviet Union & the Warsaw Pact
 - Indexes for 
-	- Japan (linked on MNNA)
+	- ~~Japan (linked on MNNA)~~
+	- China
 	- South Korea
 	- India
 	- Japan
@@ -163,6 +165,9 @@
 	- Philippines
 	- Ukraine
 ~~Southeast Asia~~
+	- CARAT (US-Indonesia) -> CARAT
+	- Pitch Black (Australia-Led) -> Pitch Black
+	- Cobra Gold (US-Thailand Multilateral Exercise) -> Cobra Gold
 ASEAN Defence Ministers' Meeting-Plus
 South China Sea Disputes
 China - US Rivalry (SE Asia page link) 
@@ -170,10 +175,20 @@ Terrorism and Insurgency (themes; terrorism as coalition warfare)--linked from S
 Piracy and MAritime Crime
 Climate and Human Security (linked from SE Asia)
 FPDA
+~~Defence Cooperation Agreement (DCA) - *AUS IND*~~
+Singapore-Australia DCA (2020)
+US-Vietnam DCA (2011)
+India-Philippines DCA (2022)
+**Humanitarian**
+- In QUAD - 2004 Indian Ocean Tsunami Response - Joint Humanitarian Efforts 
+Coalition (in definitions)
+Malabar Exercise
+
 
 *Do*
 - ISCAMP Logo
 - Change footer
+- Make History Cases Index (Link to each history page (This page is part of a series on the history of coalition and alliance warfare dating back to antiquity. Click here for the series index.))
 
 *Done*
 - Create running todo list in Knowledge Base in other Obsidian Vault 

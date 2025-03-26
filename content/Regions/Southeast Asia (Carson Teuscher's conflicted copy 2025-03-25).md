@@ -31,9 +31,9 @@ Southeast Asian states generally favor non-alignment and strategic flexibility, 
 ## Characteristics
 
 - Southeast Asian states prioritize sovereignty and often avoid formal alliances, preferring capacity-building, military exchanges, and disaster relief cooperation.
-- China is [[ASEAN|ASEAN’s]] largest trading partner, complicating security relationships for states like Cambodia, Laos, and Myanmar, which lean toward [[China|Beijing’s]] orbit.
-- Indonesia, the region’s largest country, plays a key role in shaping [[ASEAN]] norms but remains cautious about overt militarization or bloc alignments.
-- External powers have adapted by forming overlapping minilateral networks, including joint exercises such as [[CARAT|CARAT (U.S.–Indonesia)]], [[Pitch Black|Pitch Black (Australia-led)]], and [[Cobra Gold|Cobra Gold (U.S.–Thailand multilateral exercise)]].
+- China is ASEAN’s largest trading partner, complicating security relationships for states like Cambodia, Laos, and Myanmar, which lean toward Beijing’s orbit.
+- Indonesia, the region’s largest country, plays a key role in shaping ASEAN norms but remains cautious about overt militarization or bloc alignments.
+- External powers have adapted by forming overlapping minilateral networks, including joint exercises such as CARAT (U.S.–Indonesia), Pitch Black (Australia-led), and Cobra Gold (U.S.–Thailand multilateral exercise).
 
 ## Resources
 
