@@ -1,5 +1,5 @@
 ---
-title: The "AXis of Upheaval" (Russia, China, North Korea, Iran)
+title: The "Axis of Upheaval" (Russia, China, North Korea, Iran)
 draft: false
 tags:
 ---

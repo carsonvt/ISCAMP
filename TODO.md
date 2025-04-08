@@ -1,3 +1,20 @@
+- Jointness
+- Combined 
+- Arcadia Conference
+- ~~Combined Chiefs of Staff~~
+- ~~ABDACOM~~
+~~- CMAB (Munitions)~~
+~~- CSAB (Shipping)~~
+~~- CRMB (Raw Materials)~~
+~~- CFB (Food)~~
+~~- CPRB (Production)~~
+- CPC (Atomic Research)
+~~- Committee of the Combined Boards~~
+- Combination, 
+- Interoperability, 
+- Unified Command, 
+- Integrated Command, 
+- Multidomain Operations
 ## ISCAMP Import List
 ### Import List
 - [x] ANZUS ✅ 2025-03-20
@@ -127,7 +144,6 @@
 - US ROK
 - WEST UKR
 - YEMEN
-
 ### ISCAMP History
 - Post-WWII Security Framework (1951)
 ### ISCAMP Regional
@@ -139,14 +155,14 @@
 - Latin America
 ### ISCAMP Other (Todo)
 - mutual security
-- bilateral alliances - DONE
+- ~~bilateral alliances - DONE
 - cooperation
 - defense pacts
 - joint training exercises
 - intelligence sharing
 - arms agreements
 - logistical support → logistics 
-- Multilateral Military Alliances - DONE
+- ~~Multilateral Military Alliances - DONE
 - Military Interests 
 - Historical Ties in Coalition Warfare - 
 - Soviet Union & the Warsaw Pact

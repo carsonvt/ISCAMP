@@ -33,7 +33,3 @@ Coalition warfare is more than just a collection of allied forces—it is a dyna
 ﻿Through in-depth analysis and clear, engaging presentation, we explore how multinational forces navigate challenges such as language barriers, interoperability gaps, and political constraints while striving for unity of effort in the field. We shed light on the vital roles of liaison officers, joint command frameworks, and standardized logistics, illustrating how successful coalitions synchronize their capabilities to achieve strategic objectives.
 
 By translating these intricate themes into intelligible insights, the Center bridges the gap between academic scholarship, military practitioners, and policymakers—ensuring that the lessons of coalition warfare are both understood and applied in today’s rapidly evolving security environment.
-
-<center>
-![](https://cdn.blot.im/blog_ddffc09dd5024f58ac229cd6549c2d4c/_image_cache/94f1ea33-ebba-4642-b9f2-96a06e245275.png)
-</center>

@@ -15,7 +15,7 @@ The war evolved through multiple phases, including major combat operations (2003
 
 *This page is part of a series on the history of coalition and alliance warfare dating back to antiquity. Click [here](/ISCAMP) for the series index.*
 
-![U.S. Army Spc. Jack Marage, from Clear Lake, Calif., assigned to 4th Battalion, 9th Cavalry, 2nd Brigade Combat Team, 1st Cavalry Division, teaches a class about types of patrols at the 15th Iraqi army compound in Kirkuk, Iraq, Oct. 10, 2009. DVIDS, Wikimedia Commons.](_OIFKirkuk.jpg)
+![U.S. Army Spc. Jack Marage, from Clear Lake, Calif., assigned to 4th Battalion, 9th Cavalry, 2nd Brigade Combat Team, 1st Cavalry Division, teaches a class about types of patrols at the 15th Iraqi army compound in Kirkuk, Iraq, Oct. 10, 2009. DVIDS, Wikimedia Commons.](content/History/Post-Cold%20War/_OIFKirkuk.jpg)
 
 ## Coalition Command and Control (C2)
 

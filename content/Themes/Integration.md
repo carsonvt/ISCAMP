@@ -8,7 +8,7 @@ Military integration refers to the process of aligning the capabilities, structu
 Military integration hinges on several key aspects: 
 - [[Interoperability]]
 - [[Joint Training & Military Exercises]]
-- [[Unified Command Structures]]
+- [[Unified Command]]
 - [[Logistics & Resource Sharing]]
 - [[Strategic & Tactical Coordination]]
 
